@@ -1,0 +1,16 @@
+{
+  "name": "c9.ide.formatjson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh19910711/c9.ide.formatjson.git"
+  },
+  "plugins": {
+    "formatjson": {
+      "packagePath": "plugins/c9.ide.formatjson/formatjson"
+    }
+  },
+  "categories": [
+    "misc"
+  ],
+  "license": "MIT"
+}
